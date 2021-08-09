@@ -1,4 +1,4 @@
 
-struct KochavaTracker
+struct Dummy
 {
 }
